@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: https://github.com/attractorhq/tips-for-building-ai/security/advisories/new
+    about: Report vulnerabilities privately.
+  - name: Questions
+    url: https://github.com/attractorhq/tips-for-building-ai/discussions
+    about: Ask a question or share practical experience.

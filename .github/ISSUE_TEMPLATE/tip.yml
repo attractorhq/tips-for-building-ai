@@ -1,0 +1,26 @@
+name: Suggest a tip
+description: Propose practical advice or improve an existing tip
+title: "[Tip]: "
+labels: [content, triage]
+body:
+  - type: textarea
+    id: situation
+    attributes:
+      label: Situation
+      description: What concrete product or delivery situation does this address?
+    validations:
+      required: true
+  - type: textarea
+    id: advice
+    attributes:
+      label: Proposed advice
+      description: What should a team do, and why?
+    validations:
+      required: true
+  - type: textarea
+    id: tradeoff
+    attributes:
+      label: Trade-offs and evidence
+      description: When might this advice not apply? Share experience or public references.
+    validations:
+      required: true

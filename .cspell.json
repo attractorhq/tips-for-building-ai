@@ -1,0 +1,23 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "ARIA",
+    "Attractor",
+    "behaviour",
+    "interruptible",
+    "investigable",
+    "LLMOps",
+    "missingness",
+    "MITRE",
+    "modelled",
+    "operationalised",
+    "permissioned",
+    "red-teaming",
+    "runbook",
+    "sexualised",
+    "threat-model",
+    "tooling"
+  ],
+  "ignorePaths": ["LICENSE"]
+}

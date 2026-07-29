@@ -1,0 +1,6 @@
+include_mail = false
+exclude_path = [".git"]
+exclude = [
+  '^https://github\.com/attractorhq/tips-for-building-ai/(discussions|security/advisories/new)$',
+  '^https://github\.com/attractorhq/ai-failure-drills$'
+]
