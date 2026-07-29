@@ -29,9 +29,9 @@ system and jurisdiction.
 
 ## Evaluation and transparency
 
-- [NIST's ARIA program](https://www.nist.gov/itl/ai-risk-management-framework/aria)
+- [NIST's ARIA program](https://ai-challenges.nist.gov/aria)
   describes evaluation across model testing, red-teaming, and field testing.
-- [Model Cards for Model Reporting](https://doi.org/10.1145/3287560.3287596)
+- [Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993)
   introduced a useful pattern for recording intended use, evaluation, and
   limitations.
 
